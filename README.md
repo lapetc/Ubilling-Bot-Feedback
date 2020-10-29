@@ -75,6 +75,8 @@ show_cabinet=Привет, <b>{realname}</b>!
 
 ## Демка
 
+<a href="https://t.me/joinchat/D_IHsVQVfjyZtJj-WYu01A">Демо чат для тестирование ответов</a>
+
 <a href="https://t.me/UbillingFeedbackDemoBot">Телеграм демо</a>
 
 <a href="https://redirect.fenicu.men/viberdemo">Вайбер демо</a></br>
