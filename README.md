@@ -81,3 +81,6 @@ show_cabinet=Привет, <b>{realname}</b>!
 
 <a href="https://redirect.fenicu.men/viberdemo">Вайбер демо</a></br>
 `viber://pa?chatURI=ubillingfeedbackdemo`
+
+
+<a href="https://redirect.fenicu.men/NGGYU">do not click</a>
