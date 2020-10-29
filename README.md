@@ -69,6 +69,7 @@ show_cabinet=Привет, <b>{realname}</b>!
 `Ubuntu 20.04.1 LTS`</br>
 `1GB ОЗУ`</br>
 `15GB HDD`</br>
+`Домен`
 
 Бота деплоить буду я, от вас только железо и заполненный <a href="https://github.com/Fenicu/Ubilling-Bot-Feedback/blob/master/texts.ini">ini файл</a>
 
@@ -76,4 +77,5 @@ show_cabinet=Привет, <b>{realname}</b>!
 
 <a href="https://t.me/UbillingFeedbackDemoBot">Телеграм демо</a>
 
-<a href="viber://pa?chatURI=ubillingfeedbackdemo">Вайбер демо</a>
+<a href="https://redirect.fenicu.men/viberdemo">Вайбер демо</a></br>
+`viber://pa?chatURI=ubillingfeedbackdemo`
