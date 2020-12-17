@@ -1,0 +1,185 @@
+[GLOBAL]
+; Текст на кнопке с выбором языка
+locale_name=
+
+; Код локализации - значение в бд, они не должны повторяться
+locale_code=
+
+[TELEGRAM]
+; Форматирование: User, user_w_auto
+low_money_broadcast=
+accountexpire_broadcast=
+
+logout_text=
+
+billing_timeout_answer=
+
+; Эта штука вызывается при команде старт и любом непредвиденном текст/командой
+; Форматирование: User
+welcome=
+; Форматирование: User
+welcome_without_login=
+
+change_lang_answer=
+
+button_change_locale=
+button_login_text=
+button_support_text=
+button_cabinet=
+button_credit=
+button_payments=
+button_announcement=
+button_pays=
+button_cancel=
+
+; Посмотреть подробнее о кодах кредитов тут: http://wiki.ubilling.net.ua/doku.php?id=xmlagent#кредитование
+credit_code_0=
+credit_code_1=
+credit_code_2=
+credit_code_3=
+credit_code_4=
+credit_code_5=
+credit_code_6=
+credit_code_7=
+credit_code_8=
+credit_code_9=
+credit_code_10=
+
+; Этот текст вызывается при авторизации
+; Форматирование: User
+user_alredy_login=
+; Форматирование: User
+user_start_login=
+; Форматирование: User
+user_login_written=
+; Форматирование: User
+user_wrong_login=
+; Форматирование: User, user_w_auto
+user_success_login=
+
+; Форматирование: User, user_w_auto
+show_cabinet=
+
+; show_payments_title Заголовок сообщения о платежах
+; Форматирование: User
+show_payments_title=
+
+; show_payments_format Форматирование для одного платежа, они разделяются 2 строками
+; Форматирование: User, pay
+show_payments_format
+
+; paymants_no Текст, если нет ни одного платежа
+; Форматирование: User
+paymants_no=
+
+; show_announcement Форматирование для одного объявления, они разделяются 2 строками
+; Форматирование: User, user_announcement
+show_announcement=
+
+; Форматирование: User
+announcement_no=
+
+; show_payments_system Показывает все платёжные ссылки для пользователей
+; Форматирование: User
+show_payments_system=
+
+; Форматирование: User
+show_no_payments=
+
+; show_payments_buttons показывает текст НА ИНЛАЙН кнопке, сама кнопка является кнопкой ссылкой
+; Форматирование: payments
+show_payments_buttons=
+
+; Пользователь нажал на кнопку связи с поддержкой
+; Форматирование: User
+support_user_init=
+
+; Форматирование: User
+support_cancel_by_user=
+button_support_cancel_user=
+
+[VIBER]
+; Эта штука вызывается при открытии диалога с ботом
+; Форматирование: User
+conversation_started=
+
+; Форматирование: User
+conversation_started_without_login=
+
+button_login_text=
+button_support_text=
+button_cabinet=
+button_credit=
+button_payments=
+button_announcement=
+button_pays=
+button_cancel=
+
+; Посмотреть подробнее о кодах кредитов тут: http://wiki.ubilling.net.ua/doku.php?id=xmlagent#кредитование
+credit_code_0=
+credit_code_1=
+credit_code_2=
+credit_code_3=
+credit_code_4=
+credit_code_5=
+credit_code_6=
+credit_code_7=
+credit_code_8=
+credit_code_9=
+credit_code_10=
+
+; Форматирование: User
+user_alredy_login=
+; Форматирование: User
+user_start_login=
+; Форматирование: User
+user_login_written=
+; Форматирование: User
+user_wrong_login=
+; Форматирование: User, user_w_auto
+user_success_login=
+
+; Форматирование: User, user_w_auto
+show_cabinet=
+
+; show_payments_title Заголовок сообщения о платежах
+; Форматирование: User
+show_payments_title=
+
+; show_payments_format Форматирование для одного платежа, они разделяются 2 строками
+; Форматирование: User, pay
+show_payments_format=
+
+; paymants_no Текст, если нет ни одного платежа
+; Форматирование: User
+paymants_no=
+
+; show_announcement Форматирование для одного объявления, они разделяются 2 строками
+; Форматирование: User, user_announcement
+show_announcement=
+
+; Форматирование: User
+announcement_no=
+
+; show_payments_system Показывает все платёжные ссылки для пользователей
+; Форматирование: User
+show_payments_system=
+
+; show_payment Разделяется от show_payments_system 1 строчкой, а сами раделяются друг от друга новой строкой
+; Форматирование payments
+show_payment=
+
+; Форматирование: User
+show_no_payments=
+
+; Пользователь нажал на кнопку связи с поддержкой
+; Форматирование: User
+support_user_init=
+
+; Форматирование: User
+support_cancel_by_user=
+button_support_cancel_user=
+
+; Если бот не может переслать сообщение из вайбера в телеграм
+; Форматирование: User
+media_type_not_supported=
